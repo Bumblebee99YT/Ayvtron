@@ -10,6 +10,8 @@ I hope you enjoy it
 > Do the same with the section i changed in the if statement so that you can put in your own channel id
 
 # Lisence
-[BSD 3]()
+[BSD 3](https://github.com/Bumblebee99YT/Ayvtron/blob/main/LICENSE)
+
+---
 
 Bye
