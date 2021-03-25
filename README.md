@@ -7,4 +7,9 @@ Ayvtron is a chatbot i made when i was bored using this tutorial on [youtube](ht
 I hope you enjoy it
 > Replace the line called `TOKEN = ""` and paste in your own token
 
+> Do the same with the section i changed in the if statement so that you can put in your own channel id
+
+# Lisence
+[BSD 3]()
+
 Bye
